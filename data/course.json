@@ -1,0 +1,32 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Game Theory"
+    ],
+    [
+      "Humanities",
+      "Philosophy"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "cfbd6d10-08ee-4fb3-14b7-ef6eb43cbcbd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Decisions, Games, and Rational Choice",
+  "course_description": "Foundations and philosophical applications of Bayesian decision theory, game theory and theory of collective choice. Why should degrees of belief be probabilities? Is it always rational to maximize expected utility? If so, why and what is its utility? What is a solution to a game? What does a game-theoretic solution concept such as Nash equilibrium say about how rational players will, or should, act in a game? How are the values and the actions of groups, institutions and societies related to the values and actions of the individuals that constitute them?\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.222",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
